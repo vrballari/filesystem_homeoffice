@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="68545" started-at="2017-07-31T11:10:37Z" finished-at="2017-07-31T11:11:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="68545" started-at="2017-07-31T11:10:37Z" finished-at="2017-07-31T11:11:46Z">
+      <class name="com.vb.fs.AppTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="setup" is-config="true" duration-ms="4725" started-at="2017-07-31T12:10:37Z" finished-at="2017-07-31T12:10:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="regTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="regTest" duration-ms="24782" started-at="2017-07-31T12:10:42Z" data-provider="dp" finished-at="2017-07-31T12:11:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LT08 YJA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[VAUXHALL]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[SILVER]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-07-31T12:10:42Z" finished-at="2017-07-31T12:10:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-07-31T12:11:07Z" finished-at="2017-07-31T12:11:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="regTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="regTest" duration-ms="2779" started-at="2017-07-31T12:11:07Z" data-provider="dp" finished-at="2017-07-31T12:11:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LT09 YJA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[VOLKSWAGEN]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[BLACK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regTest -->
+        <test-method status="PASS" signature="regTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="regTest" duration-ms="3735" started-at="2017-07-31T12:11:10Z" data-provider="dp" finished-at="2017-07-31T12:11:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LT07 YJB]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[VOLKSWAGEN]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[BLUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-07-31T12:11:10Z" finished-at="2017-07-31T12:11:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="regTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="regTest" duration-ms="2476" started-at="2017-07-31T12:11:13Z" data-provider="dp" finished-at="2017-07-31T12:11:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M304 VJO]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[VOLKSWAGEN]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[BLUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-07-31T12:11:13Z" finished-at="2017-07-31T12:11:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-07-31T12:11:16Z" finished-at="2017-07-31T12:11:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="regTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="regTest" duration-ms="2685" started-at="2017-07-31T12:11:16Z" data-provider="dp" finished-at="2017-07-31T12:11:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[A296 OAG]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[VOLKSWAGEN]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WHITE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-07-31T12:11:18Z" finished-at="2017-07-31T12:11:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="regTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="regTest" duration-ms="2450" started-at="2017-07-31T12:11:18Z" data-provider="dp" finished-at="2017-07-31T12:11:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[YC09 YGW]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MINI]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WHITE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-07-31T12:11:21Z" finished-at="2017-07-31T12:11:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="regTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="regTest" duration-ms="2338" started-at="2017-07-31T12:11:21Z" data-provider="dp" finished-at="2017-07-31T12:11:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KU16 FKX]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CITROEN]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WHITE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-07-31T12:11:23Z" finished-at="2017-07-31T12:11:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="regTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="regTest" duration-ms="2579" started-at="2017-07-31T12:11:23Z" data-provider="dp" finished-at="2017-07-31T12:11:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LP65 VJD]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SUZUKI]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[BLUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-07-31T12:11:26Z" finished-at="2017-07-31T12:11:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="regTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="regTest" duration-ms="2755" started-at="2017-07-31T12:11:26Z" data-provider="dp" finished-at="2017-07-31T12:11:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GC16 YOA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FORD]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[BLACK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-07-31T12:11:29Z" finished-at="2017-07-31T12:11:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="regTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="regTest" duration-ms="2483" started-at="2017-07-31T12:11:29Z" data-provider="dp" finished-at="2017-07-31T12:11:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[OE07 LCO]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[VAUXHALL]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[BLUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regTest -->
+        <test-method status="PASS" signature="regTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="regTest" duration-ms="2313" started-at="2017-07-31T12:11:31Z" data-provider="dp" finished-at="2017-07-31T12:11:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[X733 GAB]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TOYOTA]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[BLUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-07-31T12:11:31Z" finished-at="2017-07-31T12:11:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.vb.fs.AppTest@91161c7]" name="afterTest" is-config="true" duration-ms="12371" started-at="2017-07-31T12:11:33Z" finished-at="2017-07-31T12:11:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.vb.fs.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

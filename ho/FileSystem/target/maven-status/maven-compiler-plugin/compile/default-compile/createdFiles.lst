@@ -1,0 +1,8 @@
+com\vb\fs\FileService.class
+com\vb\fs\FileServiceInjectorImpl.class
+com\vb\fs\FileSysApp.class
+com\vb\fs\FileServiceInjector.class
+com\vb\fs\util\NotADirectoryException.class
+com\vb\fs\FileServiceImpl$1.class
+com\vb\fs\FileServiceImpl.class
+com\vb\fs\Consumer.class

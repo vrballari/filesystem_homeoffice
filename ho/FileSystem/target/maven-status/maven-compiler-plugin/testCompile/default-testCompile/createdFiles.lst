@@ -1,0 +1,6 @@
+com\vb\fs\FileServiceImplTest.class
+com\vb\fs\misc\AbstractReader.class
+com\vb\fs\misc\ReaderFactory.class
+com\vb\fs\AppTest.class
+com\vb\fs\misc\CsvReader.class
+com\vb\fs\misc\ExcelReader.class
